@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box
+}
+li{
+    display: inline-block;
+    
+}
+nav{
+    margin: 7px 0px 7px 130px;
+}
+nav ul li a{
+    text-decoration: none;
+    
+}
+.logo{
+    width: 150px;
+    height: 50px;
+}
+.same{
+    margin: 0px 0px 5px 0px;
+    font-size: 15px;
+    color:black;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Manrope', sans-serif;
+}
+.same:hover{
+    color: rgb(23, 148, 231);
+}
+.post:hover{
+    background-color: rgb(253, 95, 148);
+}
+.post{
+    font-size: 15px;
+    color:white;
+    background-color: rgb(250, 0, 154);
+    padding: 5px 8px 5px 8px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Manrope', sans-serif;
+}
+.nav{
+    width: 100%;
+    background-color: rgb(27, 23, 48);
+    padding: 4px 0px 4px 170px;
+}
+.nav li{
+    margin-right: 20px;
+}
+div ul li a{
+    padding: 0px 6px 0px 6px;
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Manrope', sans-serif;
+
+}
+div ul li a:hover{
+    background-color: rgb(50, 43, 87);;
+    padding: 15px 6px 15px 6px;
+}
+body{
+    background-image: url(./mobile-phone-1080.webp);
+    background-repeat: no-repeat;
+    background-size: 99% 640px;
+    background-position: 8px 140px;
+    
+}
+main{
+    margin: 7px 0px 7px 220px;
+
+}
+h1{
+    color: white;
+    font-size: 50px;
+}
+p{
+    color: rgb(255, 246, 235);
+    font-size: 20px;
+}
+.hire{
+    text-decoration: none;
+    color: white;
+    background-color:  rgb(250, 0, 154);
+    font-size: 22px;
+    padding: 15px 14px 15px 14px;
+}
+.earn{
+    text-decoration: none;
+    border: 1px solid white;
+    box-shadow: 10px 5px 10px rgba(255, 255, 255, 0.432);
+    font-size: 22px;
+    background-color: transparent;
+    color: white;
+    padding: 15px 14px 15px 14px;
+}
+.hire:hover{
+    background-color:rgb(253, 95, 148) ;
+}
+.earn:hover{
+    background-color: rgba(255, 255, 255, 0.288);
+}
+h3{
+    color: rgb(177, 169, 159);
+    margin-left: 60px ;
+}
+.sponser{
+    margin-left: 120px;
+    width: 1300px;
+    height: 60px;
+}
+h2{
+    font-size: 50px;
+    margin-left: 60px;
+}
+span img{
+    width: 24%;
+    margin-left: 10px;
+}
+.special{
+    color: white;
+    background-color: rgb(250, 0, 154);
+    padding: 20px 20px 20px 20px;
+    border-radius: 40px;
+    font-size: 30px;
+    margin-left: 500px;
+    text-decoration: none;
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Manrope', sans-serif;
+}
+.special:hover{
+    background-color:rgb(253, 95, 148) ;
+}
+.ulmanage li{
+    margin-right: 20px;
+}
