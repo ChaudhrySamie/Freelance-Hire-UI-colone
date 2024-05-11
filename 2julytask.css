@@ -1,6 +1,9 @@
 *{
     box-sizing: border-box
 }
+body{
+    zoom: 80%;
+}
 li{
     display: inline-block;
     
